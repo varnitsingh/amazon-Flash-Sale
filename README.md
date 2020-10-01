@@ -1,4 +1,5 @@
-![# Amazon Flash Sale Autobuy Tool](images/flashSale.jpg)
+![](images/flashSale.jpg)
+# Amazon Flash Sale Autobuy Tool
 Web Automation tool for adding products to cart automatically during Flash sales
 
 ## Example Usage
